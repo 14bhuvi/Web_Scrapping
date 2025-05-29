@@ -1,0 +1,107 @@
+[
+  {
+    "Company": "Otipy",
+    "Location HQ": [
+      "selwa7TpEbfXlWnXF",
+      "sel8GpsCiYX4oM0Yl"
+    ],
+    "Industry": "sel0UCZcPOcDjGani",
+    "# Laid Off": 300,
+    "%": 1,
+    "Date": "2025-05-23T00:00:00.000Z",
+    "Source": "https://economictimes.indiatimes.com/tech/startups/subscription-based-grocery-provider-otipy-shuts-shop-impacts-300-employees/articleshow/121367249.cms?from=mdr",
+    "$ Raised (mm)": 44,
+    "Stage": "selyuez0zsiQ9x0TG",
+    "Date Added": "2025-05-26T23:53:18.000Z",
+    "Country": "selXARwGJXy8DB6KI"
+  },
+  {
+    "Company": "LeddarTech",
+    "Location HQ": [
+      "selXBh65YyerKBQMP",
+      "sel8GpsCiYX4oM0Yl"
+    ],
+    "Industry": "selBvC3A4HNUDzerT",
+    "# Laid Off": 138,
+    "%": 0.95,
+    "Date": "2025-05-22T00:00:00.000Z",
+    "Source": "https://betakit.com/leddartech-cuts-95-percent-of-staff-in-bid-to-rescue-its-business/",
+    "$ Raised (mm)": 402,
+    "Stage": "sela5OuwQcXOkl5WO",
+    "Date Added": "2025-05-22T23:15:17.000Z",
+    "Country": "selM7Gdl5vwqTgibq"
+  },
+  {
+    "Company": "Climeworks",
+    "Location HQ": [
+      "selkcQTVBKqmevtXP",
+      "sel8GpsCiYX4oM0Yl"
+    ],
+    "Industry": "selIDIRy3TsJWg2Hw",
+    "# Laid Off": 106,
+    "%": 0.22,
+    "Date": "2025-05-21T00:00:00.000Z",
+    "Source": "https://www.bloomberg.com/news/articles/2025-05-21/carbon-removal-startup-climeworks-is-cutting-22-of-staff",
+    "$ Raised (mm)": 734,
+    "Stage": "selMtMt50lh0N7WgR",
+    "Date Added": "2025-05-22T21:24:24.000Z",
+    "Country": "selUXz8kAC1JC3y9r"
+  },
+  {
+    "Company": "Builder.ai",
+    "Location HQ": [
+      "selnBHRWdTxvcfNCY",
+      "sel8GpsCiYX4oM0Yl"
+    ],
+    "Industry": "selO87s6fTHlQpEts",
+    "%": 1,
+    "Date": "2025-05-20T00:00:00.000Z",
+    "Source": "https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/",
+    "$ Raised (mm)": 445,
+    "Stage": "selYp4s2HFiTwEy8H",
+    "Date Added": "2025-05-22T23:13:25.000Z",
+    "Country": "seldVNXmT64IJdbP2"
+  },
+  {
+    "Company": "Luminar",
+    "Location HQ": [
+      "selhDgQcsNXCuWXQj"
+    ],
+    "Industry": "selBvC3A4HNUDzerT",
+    "Date": "2025-05-20T00:00:00.000Z",
+    "Source": "https://techcrunch.com/2025/05/20/luminar-kicks-off-another-round-of-layoffs-amid-ceos-sudden-resignation/",
+    "$ Raised (mm)": 780,
+    "Stage": "sela5OuwQcXOkl5WO",
+    "Date Added": "2025-05-26T23:55:52.000Z",
+    "Country": "seldVNXmT64IJdbP2"
+  },
+  {
+    "Company": "Blink Charging",
+    "Location HQ": [
+      "selsSHgwTjWfageC3"
+    ],
+    "Industry": "selFbYcvIJ3UEiwsU",
+    "%": 0.2,
+    "Date": "2025-05-19T00:00:00.000Z",
+    "Source": "https://blinkcharging.com/news/blink-charging-announces-workforce-reduction-to-accelerate-blinkforward-initiative-and-strengthen-global-market-position",
+    "$ Raised (mm)": 110,
+    "Stage": "sela5OuwQcXOkl5WO",
+    "Date Added": "2025-05-22T21:25:54.000Z",
+    "Country": "seldVNXmT64IJdbP2"
+  },
+  {
+    "Company": "VerSe Innovation copy",
+    "Location HQ": [
+      "selwgWRJpOwx2s1A9",
+      "sel8GpsCiYX4oM0Yl"
+    ],
+    "Industry": "selth9glSexLf6qnI",
+    "# Laid Off": 350,
+    "Date": "2025-05-18T00:00:00.000Z",
+    "Source": "https://inc42.com/buzz/josh-dailyhunt-parent-verse-innovation-lays-off-350-employees/",
+    "$ Raised (mm)": 1700,
+    "Stage": "selOiU3nTXt3nE1Su",
+    "Date Added": "2025-05-22T21:22:27.000Z",
+    "Country": "selXARwGJXy8DB6KI"
+  }
+]
