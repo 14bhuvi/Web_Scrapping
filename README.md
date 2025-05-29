@@ -1,9 +1,10 @@
-<h2>Steps to follow and use-</h2><br>
-1. create a scrapper folder<br>
-2. git init in your terminal<br>
-3. another name folder within the scrapper<br>
-4. then all the files within this folder<br>
-5. run python scraper.py in terminal, as this will be your main file<br>
-6. start debugging the scraper.py after all integration<br>
-7. remember to get the cookie status from API (suggest to use postman API)<br>
-8. get the cURL from inspection of URL.
+## Steps to follow and use
+
+1. Create a `scrapper` folder  
+2. Run `git init` in your terminal  
+3. Create another folder inside `scrapper`  
+4. Place all files within this folder  
+5. Run `python scraper.py` in the terminal (this is your main file)  
+6. Start debugging `scraper.py` after all integration  
+7. Remember to get the cookie status from API (suggest to use Postman)  
+8. Get the cURL from browser inspection of the URL  

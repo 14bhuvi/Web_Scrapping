@@ -13,8 +13,8 @@ def parse_layoffs(html_content):
     rows = table.find('tbody').find_all('tr')
     layoffs = []
 
-    today = datetime.now()
-    last_week = today - datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%S.%fZ")
+    today = datetime.utcnow()
+    last_week = today - datetime.timedelta(days=7)
 
     for row in rows:
         cols = row.find_all('td')
@@ -29,7 +29,8 @@ def parse_layoffs(html_content):
             continue
 
         # Filter by last 7 days
-        if layoff_date <= last_week:
+        #fixed here
+        if layoff_date >= last_week:
             layoff = {
                 'Date': date_str,
                 'Company': cols[1].get_text(strip=True),
